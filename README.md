@@ -6,3 +6,9 @@ Nesdev code forked and referenced originally from https://github.com/cirla/nesde
 
 Music is various DOOM by ID Software and MegaMan songs.
 
+## Images
+### Title Screen
+![Title Screen](https://github.com/ronaldstoner/nes-ntns/blob/main/images/title.png?raw=true)
+
+### Bios
+![Member Bios](https://github.com/ronaldstoner/nes-ntns/blob/main/images/ron.png?raw=true)
